@@ -4,7 +4,7 @@ Welcome to the SMS Money Tracker GitHub repository! 📊💰
 
 Track Rupee SMS is a powerful Flutter mobile app that automates expense tracking and financial management by parsing SMS messages. Say goodbye to manual data entry and hello to smart, automated expense monitoring!
 
-![Money Tracker Logo](link-to-your-logo.png)
+![Money Tracker Logo]()
 
 ## Table of Contents
 
